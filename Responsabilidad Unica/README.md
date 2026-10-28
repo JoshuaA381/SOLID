@@ -1,0 +1,1 @@
+el código cumple SRP porque separa la clase de datos (Libro) de la clase que realiza la acción de guardado, de modo que cada una tiene una única responsabilidad y una única razón para cambiar
