@@ -1,0 +1,1 @@
+el código cumple ISP porque cumple la funcionalidad en interfaces pequeñas y específicas, y hace que cada clase herede únicamente de las interfaces cuyos métodos va a implementar, evitando que ninguna clase se vea obligada a depender de métodos que no utiliza
